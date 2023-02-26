@@ -1,0 +1,12 @@
+Alunite: Threshold = 0.9372, No. of data points = 60
+Andradite: Threshold = 0.94899, No. of data points = 65
+Buddingtonite: Threshold = 0.9438, No. of data points = 81
+Dumortierite: Threshold = 0.9435, No. of data points = 51
+Kaolinite1: Threshold = 0.9505, No. of data points = 55
+Kaolinite2: Threshold = 0.9589, No. of data points = 41
+Muscovite: Threshold = 0.9475, No. of data points = 51
+Montmorillonite: Threshold = 0.95535, No. of data points = 91
+Nontronite: Threshold = 0.9638099, No. of data points = 90
+Pyrope: Threshold = 0.9509999, No. of data points = 56
+Sphene: Threshold = 0.9459999, No. of data points = 43
+Chalcedony: Threshold = 0.9509999, No. of data points = 70

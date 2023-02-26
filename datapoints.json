@@ -1,0 +1,50 @@
+data={
+  "Alunite": {
+    "Threshold": 0.930899999,
+    "No. of data points": 707
+  },
+  "Andradite": {
+    "Threshold": 0.9466,
+    "No. of data points": 1039
+  },
+  "Buddingtonite": {
+    "Threshold": 0.94101,
+    "No. of data points": 920
+  },
+  "Dumortierite": {
+    "Threshold": 0.93900,
+    "No. of data points": 989
+  },
+  "Kaolinite1": {
+    "Threshold": 0.9488,
+    "No. of data points": 327
+  },
+  "Kaolinite2": {
+    "Threshold": 0.9550989,
+    "No. of data points": 1482
+  },
+  "Muscovite": {
+    "Threshold": 0.9430000,
+    "No. of data points": 1259
+  },
+  "Montmorillonite": {
+    "Threshold": 0.9523,
+    "No. of data points": 1677
+  },
+  "Nontronite": {
+    "Threshold": 0.9615,
+    "No. of data points": 1066
+  },
+  "Pyrope": {
+    "Threshold": 0.949222,
+    "No. of data points": 474
+  },
+  "Sphene": {
+    "Threshold": 0.9440,
+    "No. of data points": 343
+  },
+  "Chalcedony": {
+    "Threshold": 0.94658999,
+    "No. of data points": 1079
+  }
+}

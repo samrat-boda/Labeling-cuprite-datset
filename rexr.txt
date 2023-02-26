@@ -1,0 +1,57 @@
+data={
+  "Alunite": {
+    "Threshold": 0.930899999,
+    "No. of data points": 707
+  },
+  "Andradite": {
+    "Threshold": 0.9469999,
+    "No. of data points": 639
+  },
+  "Buddingtonite": {
+    "Threshold": 0.94101,
+    "No. of data points": 920
+  },
+  "Dumortierite": {
+    "Threshold": 0.93900,
+    "No. of data points": 989
+  },
+  "Kaolinite1": {
+    "Threshold": 0.9483999,
+    "No. of data points": 450
+  },
+  "Kaolinite2": {
+    "Threshold": 0.9550989,
+    "No. of data points": 1482
+  },
+  "Muscovite": {
+    "Threshold": 0.9430000,
+    "No. of data points": 1259
+  },
+  "Montmorillonite": {
+    "Threshold": 0.9523,
+    "No. of data points": 1677
+  },
+  "Nontronite": {
+    "Threshold": 0.9615,
+    "No. of data points": 1066
+  },
+  "Pyrope": {
+    "Threshold": 0.94855,
+    "No. of data points": 1093
+  },
+  "Sphene": {
+    "Threshold": 0.943500,
+    "No. of data points": 546
+  },
+  "Chalcedony": {
+    "Threshold": 0.94658999,
+    "No. of data points": 1079
+  }
+}
+
+thresholds = np.zeros(12)  # initialize a NumPy array of size 12 with zeros
+
+# fill the array with the threshold values of each element in serial order
+for i, mineral in enumerate(data):
+    thresholds[i] = data[mineral]['Threshold']
+print("thresholds shape : ",thresholds.shape)
